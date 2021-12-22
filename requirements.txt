@@ -2,3 +2,4 @@ construct==2.10.67
 termcolor==1.1.0
 pandas==1.3.5
 scipy==1.7.3
+Shapely==1.8.0
